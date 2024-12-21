@@ -1,6 +1,10 @@
 ### dependency
 streamlit
 numpy
+setuptools>=65.5.1
+wheel>=0.41.2
+pip>=24.3.1
+
 
 ### local packages -
 -e . 
